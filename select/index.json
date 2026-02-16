@@ -1,0 +1,176 @@
+{
+  "version": 1,
+  "base_track": "DEJAVU",
+  "base_artist": "UVERworld",
+  "createdAt": "2026-02-16T15:48:28.028624Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "0時前のツンデレラ(KODA KUMI LIVE TOUR 2011〜Dejavu〜)",
+      "artist": "Kumi Koda",
+      "has_synced": false,
+      "path": "select/01_0時前のツンデレラ(KODA_KUMI_LIVE_TOUR_2011〜Dejavu〜)_Kumi_Koda.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "め組のひと(KODA KUMI LIVE TOUR 2011〜Dejavu〜)",
+      "artist": "Kumi Koda",
+      "has_synced": false,
+      "path": "select/02_め組のひと(KODA_KUMI_LIVE_TOUR_2011〜Dejavu〜)_Kumi_Koda.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Dejavu",
+      "artist": "The Delta Mode",
+      "has_synced": false,
+      "path": "select/03_Dejavu_The_Delta_Mode.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "DEJAVU",
+      "artist": "TWICE",
+      "has_synced": true,
+      "path": "select/04_DEJAVU_TWICE.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "DEJAVU",
+      "artist": "TWICE",
+      "has_synced": true,
+      "path": "select/05_DEJAVU_TWICE.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "DejaVu",
+      "artist": "BONES",
+      "has_synced": true,
+      "path": "select/06_DejaVu_BONES.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Dejavu",
+      "artist": "Stray Kids",
+      "has_synced": false,
+      "path": "select/07_Dejavu_Stray_Kids.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Dejavu",
+      "artist": "Apink",
+      "has_synced": true,
+      "path": "select/08_Dejavu_Apink.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Poppin' love cocktail feat.TEEDA(KODA KUMI LIVE TOUR 2011〜Dejavu〜)",
+      "artist": "Kumi Koda",
+      "has_synced": false,
+      "path": "select/09_Poppin'_love_cocktail_feat.TEEDA(KODA_KUMI_LIVE_TOUR_2011〜Dejavu〜)_Kumi_Koda.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Dejavu",
+      "artist": "Projota feat. Luccas Carlos",
+      "has_synced": true,
+      "path": "select/10_Dejavu_Projota_feat._Luccas_Carlos.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Dejavu",
+      "artist": "Projota/Luccas Carlos",
+      "has_synced": true,
+      "path": "select/11_Dejavu_Projota_Luccas_Carlos.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Drugs, Booze & Dejavu",
+      "artist": "Johnny Curl X",
+      "has_synced": false,
+      "path": "select/12_Drugs,_Booze_&_Dejavu_Johnny_Curl_X.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Dejavu",
+      "artist": "Shakatak",
+      "has_synced": false,
+      "path": "select/13_Dejavu_Shakatak.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Dejavu",
+      "artist": "BOL4",
+      "has_synced": true,
+      "path": "select/14_Dejavu_BOL4.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Dejavu",
+      "artist": "Bolbbalgan4",
+      "has_synced": true,
+      "path": "select/15_Dejavu_Bolbbalgan4.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Dejavu",
+      "artist": "NU'EST W",
+      "has_synced": false,
+      "path": "select/16_Dejavu_NU'EST_W.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Dejavu (feat. Wednesday)",
+      "artist": "KozyPop",
+      "has_synced": true,
+      "path": "select/17_Dejavu_(feat._Wednesday)_KozyPop.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Dejavu (Song By Wednesday) (Prod. Add Blessed)",
+      "artist": "KozyPop",
+      "has_synced": true,
+      "path": "select/18_Dejavu_(Song_By_Wednesday)_(Prod._Add_Blessed)_KozyPop.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "DEJAVU",
+      "artist": "S.E.S.",
+      "has_synced": false,
+      "path": "select/19_DEJAVU_S.E.S..txt"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Dejavu",
+      "artist": "S.E.S",
+      "has_synced": false,
+      "path": "select/20_Dejavu_S.E.S.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "DEJAVU",
+      "artist": "UVERworld",
+      "has_synced": false,
+      "path": "select/pl_01_DEJAVU_UVERworld.txt"
+    }
+  ]
+}
